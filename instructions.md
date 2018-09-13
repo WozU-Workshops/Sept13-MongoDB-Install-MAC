@@ -1,8 +1,8 @@
 # How to Install MongoDB on MAC
 
 
-1. Go to MongoDB site and find the download button
-2. Download tgz file a 64bit MAC operating system
+1. Go to [MongoDB site](https://www.mongodb.com/) and find the download button or go to the [MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
+2. After clicking the download button, click on the _Community Server_ tab. Choose _OSX_ as your operating system and click the green button that says _DOWNLOAD (tgz)_
 3. Open your terminal and **change directories to the downloads folder**
    * First type in `cd downloads` to change directories
 4. Look at contents to show downloaded file
